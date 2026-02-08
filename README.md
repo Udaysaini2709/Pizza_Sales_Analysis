@@ -1,1 +1,2 @@
 # Pizza_Sales_Analysis
+Pizza Sales Analysis is a data analytics project focused on extracting business insights from transactional sales data. The analysis was performed using Python for data cleaning and exploratory analysis, SQL for querying and aggregations, and Power BI for interactive dashboards and visualizations. The project highlights key KPIs, sales trends, and top-performing products to support data-driven decision-making.
